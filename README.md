@@ -1,6 +1,6 @@
 # 3D Anime Character Modelling | OpenGL
 
-An interactive 3D character modelling project developed using C++, OpenGL, GLU, and the Win32 API. The project features a fully animated anime-inspired warrior monk character named **Jian Feng (剑枫)**, designed with modular body parts, hierarchical animation, texture customization, and real-time user interaction. :contentReference[oaicite:0]{index=0}
+An interactive 3D character modelling project developed using C++, OpenGL, GLU, and the Win32 API. The project features a fully animated anime-inspired warrior monk character named **Jian Feng (剑枫)**, designed with modular body parts, hierarchical animation, texture customization, and real-time user interaction.
 
 ## Project Overview
 
@@ -93,7 +93,7 @@ Each component is modelled separately and connected through hierarchical transfo
 
 ## Character Design
 
-The character, **Jian Feng (剑枫)**, is inspired by East Asian warrior monk aesthetics. The design combines traditional monk robes with combat-oriented armor pieces, creating a balance between spirituality and martial strength. :contentReference[oaicite:2]{index=2}
+The character, **Jian Feng (剑枫)**, is inspired by East Asian warrior monk aesthetics. The design combines traditional monk robes with combat-oriented armor pieces, creating a balance between spirituality and martial strength. 
 
 ## Model Statistics
 
