@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="onlyhat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlybelt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlycloak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyclothes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyhair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlykneecoverleft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlykneecoverright.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlylowerlegleft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlylowerlegright.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlylowwaist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlypants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyshoeleft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyshoeright.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyweapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyrightarm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyrightfist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlybody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyleftarm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyleftfist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlylefthandcover.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="onlyrighthandcover.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\upperleftleg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\upperrightleg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\uprightleg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\cloak_texture3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\shirt_texture2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\shirt_texture3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\cloak_texture2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\cloak_texture1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\hat_texture2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\hat_texture3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\boots_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\ground_texture1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\hat_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\shirt_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
